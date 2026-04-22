@@ -225,7 +225,7 @@ with st.sidebar:
     st.markdown("<br>", unsafe_allow_html=True)
     st.markdown("""
     <div style='font-size:0.75rem; color:#475569; text-align:center;'>
-        Built with ❤️ using Python & Streamlit<br>No API keys required
+        <br>
     </div>
     """, unsafe_allow_html=True)
 
